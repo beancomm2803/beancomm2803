@@ -1,5 +1,6 @@
-![BEAN Banner](IMAGE_URL_HERE)
 <h1 align="center"><strong>🪴 BEAN — Bhartiya Engineering Achievers Network </strong></h1>
+
+![BEAN Banner]([IMAGE_URL_HERE](https://github.com/beancomm2803/beancomm2803/blob/main/Screenshot%202026-06-22%20145003.png?raw=true))
 
 <p><q> A community of ambitious engineering students who learn, build, ship, and showcase. </q></p>
 
